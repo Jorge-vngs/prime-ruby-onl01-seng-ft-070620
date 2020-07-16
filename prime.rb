@@ -1,6 +1,6 @@
 
 def prime?(11)
-  if prime?(11)
+  if 11 = prime?
    true
   else 
    puts "potato"
