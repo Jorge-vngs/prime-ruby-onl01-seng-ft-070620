@@ -1,8 +1,8 @@
 
 def prime?(x)
-  if x = prime?
+  if x.prime?
    true
   else 
    puts "potato"
   end 
-end 
+end
