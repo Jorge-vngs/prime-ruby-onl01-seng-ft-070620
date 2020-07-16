@@ -1,4 +1,4 @@
- x = 11
+
 def prime?(x)
   if x = prime?(11)
    true
