@@ -1,6 +1,6 @@
 
 def prime?(x)
-  if x.prime?
+  if x.prime?(17)
    true
   else 
    puts "potato"
