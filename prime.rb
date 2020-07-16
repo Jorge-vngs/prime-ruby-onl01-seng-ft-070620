@@ -1,6 +1,7 @@
 
-def prime?(11)
-  if 11 = prime?
+def prime?(x)
+  x = 11
+  if x = prime?
    true
   else 
    puts "potato"
